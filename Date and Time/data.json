@@ -1,0 +1,57 @@
+{
+    "People": [
+        {
+            "id": 1,
+            "Name": "Kay",
+            "Age": 20,
+            "weight": 300,
+            "color": "white"
+        },
+        {
+            "id": 2,
+            "Name": "Salam",
+            "Age": 29,
+            "weight": 800,
+            "color": "dark"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

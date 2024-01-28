@@ -1,0 +1,43 @@
+h1{
+    font-size: 77px;
+    font-family: sans-serif;
+    color: blue;
+}
+input{
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    height: 7vh;
+    width: 480px;
+    outline: none;
+    box-shadow: 0px -1px 17px 4px rgba(212,47,47,0.85);
+    -webkit-box-shadow: 0px -1px 17px 4px rgba(212,47,47,0.85);
+    -moz-box-shadow: 0px -1px 17px 4px rgba(212,47,47,0.85);
+}
+*{
+    background-color: white;
+}
+.main-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 73vh;
+}
+i{
+    font-size: 40px;
+    padding: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mai{
+    display: flex;
+    justify-content: right;
+}
+h5{
+    font-size: 23px;
+}

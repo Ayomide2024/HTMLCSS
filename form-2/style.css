@@ -1,0 +1,19 @@
+input{
+ margin-bottom: 7px;   
+ height: 50px;
+ width: 300px;
+ border-radius: 20px;
+ border: white;
+ color: white;
+}
+textarea{
+    border-radius: 20px;
+    border: 2px solid white;
+    color: white;
+}
+.btn{
+    width: 100px;
+    border-radius: 5px;
+    background-color: red;
+    border: none;
+}
